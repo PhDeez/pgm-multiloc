@@ -10,7 +10,7 @@
   "license": "MIT",
   "author": "beccasafan",
   "main": "gulpfile.js",
-  "repository": "https://github.com/beccasafan/pgm-multiloc",
+  "repository": "https://github.com/slgphantom/pgm-multiloc",
   "scripts": {
     "postinstall": "npm run typings install && npm run build",
     "build": "gulp default",
