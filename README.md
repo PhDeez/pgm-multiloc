@@ -1,8 +1,13 @@
 # PGM-MultiLoc
 A tool to visualize coverage of multiple instances of PokemonGo-Map
+A modified version allows visualising step 100 size
+
+credit to: https://github.com/beccasafan/pgm-multiloc
 
 ### Run It
-- Live Version: https://beccasafan.github.io/pgm-multiloc/
+- Live Version (<=st20): https://beccasafan.github.io/pgm-multiloc/
+- Live Version (<=st100): https://slgphantom.github.io/pgm-multiloc/
+
 
 ### Install Locally
 - Clone the repository locally
